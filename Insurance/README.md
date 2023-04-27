@@ -2,13 +2,13 @@ HamWAN Central Indiana, Inc. carries coverage from Hanover Insurance Company. Th
 
 | Area                                                               | Limit      |
 | ------------------------------------------------------------------ | ---------- |
-| General Aggregate Limit (Other Than Products Completed Operations) | $2,000,000 |
-| Products Completed Operations Aggregate Limit                      | $2,000,000 |
-| Personal and Advertising Injury Limit                              | $1,000,000 |
-| Each Occurrence Limit                                              | $1,000,000 |
-| Fire Damage Limit (Any One Fire)                                   | $100,000   |
-| Medical Expense Limit (Any One Person)                             | $10,000    |
-| Annual Premium                                                     | $200       |
+| General Aggregate Limit (Other Than Products Completed Operations) | $0 |
+| Products Completed Operations Aggregate Limit                      | $0 |
+| Personal and Advertising Injury Limit                              | $0 |
+| Each Occurrence Limit                                              | $0 |
+| Fire Damage Limit (Any One Fire)                                   | $0   |
+| Medical Expense Limit (Any One Person)                             | $0    |
+| Annual Premium                                                     | $0       |
 
 - Coverage provided by: Hanover Insurance Company
 - Policy number: 
